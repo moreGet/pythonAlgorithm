@@ -1,7 +1,7 @@
 count = 0
 coin = [500, 100, 50, 10]
 
-money = 15660
+money = 12370
 
 for arg in coin:
     temp = int(money/arg)
